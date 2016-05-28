@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.6'
 gem 'haml'
 gem 'paperclip'
+gem 'simple_form'
+gem 'bootstrap'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
